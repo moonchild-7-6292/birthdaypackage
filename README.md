@@ -1,5 +1,5 @@
-[Birthday Webpage.html](https://github.com/user-attachments/files/24565429/Birthday.Webpage.html)
-<!DOCTYPE html>
+(https://github.com/user-attachments/files/24565429/Birthday.Webpage.html)
+
 <html>
 <head>
     <meta charset="UTF-8">
@@ -187,8 +187,7 @@ img {
 
 
 
-![chibi_drawing](https://github.com/user-attachments/assets/0a9c06c0-3d86-45f2-ae74-497469502ab2)
-<img width="1350" height="919" alt="web2" src="https://github.com/user-attachments/assets/18ba34d2-f342-4e00-af8f-54f801def7fb" />
+
 
 
 </body>
